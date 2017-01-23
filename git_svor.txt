@@ -6,3 +6,10 @@
 	ls: Er til þess að sjá möppur sem eru í slóðinni
 	pwd: Til þess að sjá hvaða slóð þú ert núna í
 	mkdir: stendur fyrir "make directory" og þú býrð til möppur úr þessu
+
+2. 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone: Þegar þú afritar eitthvað "repository" i nýjan slóð
+	git log: er til þess að sjá commit logs
+	git status: þú sérð vinnu tréið (status)
+	git diff: Til þess að sjá muninn af breytingu við commits, commit og vinnu tréið, ofl.
+	git checkout: Til þess að skipta um grein og til þess að endurheimta vinnu tré file-inn.
