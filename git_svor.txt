@@ -45,4 +45,9 @@
 	nota commit hvert sinn við erum búnnir með spurningarnar, ég get ekki gefið neinar nákvæmar tölur hversu
 	oft við notum commit en ég held allavega þetta virkar svoleiðis.
 
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+	
+	"Working directory": Working directory er slóð þar sem þú ert með þín source files sem er undir git stjórn,
+	(í rótinni þar sem öll dirs eru undir .git).
+
 
