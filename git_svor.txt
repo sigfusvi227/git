@@ -61,10 +61,17 @@
 	það er hægt að nota það í margt, en þetta er aðalega notað til að halda original file-ið safe eða ekki "corrupted".
 	gefum dæmi t.d. í vefsíðu gerð, þú ert með file og það eru nokkur commit sem eru inn í því og svo býrjar þú að brancha,
 	þá fer kemur svona copy (ekki beinlínis samt) hugsaðu meira að þetta sé bara sem "Save as..." og þú save-ar fileið en þú 
-	gerir enga áhrif á upprunnalega file-ið. 
+	gerir enga áhrif á upprunnalega file-ið.
+	það er allavega útskýringarnar sem ég fann hér: https://git-scm.com/book/en/v1/Git-Branching-What-a-Branch-Is 
 	
 9.	Hver fann upp GIT?
 	Linus Torvalds á árið 2005 fyrir framleiðingu af Linux kernel.
+
+10.	Hvar er GIT helst notað?
+	Notað til þess að hafa auga á breytingar í tölvu files og til að framkvæma verk á þessum files fyrir mörgu fólki,
+	en er aðalega notuð fyrir hugbúnaðarþróun, en það er hægt líka að sjá um breytingar á files. Sem dreift endurskoðun 
+	eftirlitskerfi það er miðar að því að hraða, heilleika gagna, og styðja fyrir dreift, non-línuleg Verkferlar.
+
 
 
 
