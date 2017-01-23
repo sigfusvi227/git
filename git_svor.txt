@@ -38,3 +38,11 @@
 5.	Hverjir eru helstu kostir við að nota GIT?
 	Þú getur fundið eða uppfært skjöl og geymt og það mun ekki týnast.
 
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+	Það fer eftir ýmsu, en við verkefnið sem við erum að gera núna þá erum við að nota commit frekar oft. 
+	mætti nú segja að þú notar commit mest aðalega þegar þú ert að uppfæra eitthvað file t.d. við þurfum að 
+	nota commit hvert sinn við erum búnnir með spurningarnar, ég get ekki gefið neinar nákvæmar tölur hversu
+	oft við notum commit en ég held allavega þetta virkar svoleiðis.
+
+
