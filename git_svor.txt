@@ -31,3 +31,6 @@
 	c) git diff commit1 commit2 : Þegar það er gefið lengd af commits til að sýna, þá sýnir commitið
 	það sem er til á milli commit1 og commit2.
 
+4. 	Hvað er útgáfustýring (e.version control)? 
+	Git sjálfur er t.d. version control system sem er notaður til að finna breytingar í computer files
+	og til þess að leiðrétta vinnur sem getur verið aflað af mörgu fólki.
