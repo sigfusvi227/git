@@ -13,3 +13,8 @@
 	git status: þú sérð vinnu tréið (status)
 	git diff: Til þess að sjá muninn af breytingu við commits, commit og vinnu tréið, ofl.
 	git checkout: Til þess að skipta um grein og til þess að endurheimta vinnu tré file-inn.
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff: 
+	b) git diff --staged 
+	c) git diff commit1 commit2
