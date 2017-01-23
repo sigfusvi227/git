@@ -63,6 +63,9 @@
 	þá fer kemur svona copy (ekki beinlínis samt) hugsaðu meira að þetta sé bara sem "Save as..." og þú save-ar fileið en þú 
 	gerir enga áhrif á upprunnalega file-ið. 
 	
+9.	Hver fann upp GIT?
+	Linus Torvalds á árið 2005 fyrir framleiðingu af Linux kernel.
+
 
 
  
