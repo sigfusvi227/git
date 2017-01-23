@@ -1,1 +1,8 @@
 #Git spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd: Er "change directory" og er notuð til þess að færa milli staðar
+	cd ~: Er til þess að fara beint í root, eða kallað heima slóðinn
+	ls: Er til þess að sjá möppur sem eru í slóðinni
+	pwd: Til þess að sjá hvaða slóð þú ert núna í
+	mkdir: stendur fyrir "make directory" og þú býrð til möppur úr þessu
