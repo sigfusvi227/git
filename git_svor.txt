@@ -34,3 +34,7 @@
 4. 	Hvað er útgáfustýring (e.version control)? 
 	Git sjálfur er t.d. version control system sem er notaður til að finna breytingar í computer files
 	og til þess að leiðrétta vinnur sem getur verið aflað af mörgu fólki.
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+	Þú getur fundið eða uppfært skjöl og geymt og það mun ekki týnast.
+
