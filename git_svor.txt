@@ -50,4 +50,21 @@
 	"Working directory": Working directory er slóð þar sem þú ert með þín source files sem er undir git stjórn,
 	(í rótinni þar sem öll dirs eru undir .git).
 
+	"Staging area": Er file sem almennt geymist inn í þitt "Git directory", þeir safna saman upplýsingar um hvað mun
+	fara í næsta committið þitt. stundum er það kallað sem "index", en það er líka algengt að kalla það sem "staging area".
+
+	"Repository": Er þaða file sem þú vinnur alltaf í, staging area er fyrsta sem þú byrjar að gefa upp commands t.d. commit
+	og það fer beint inn í repository file-ið og uppfærist annaðslagið þegar þú gerir eitthvað command.
+	vanalega er þetta kallað "Main branch" eða þar sem work flow-ið gerist.
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+	það er hægt að nota það í margt, en þetta er aðalega notað til að halda original file-ið safe eða ekki "corrupted".
+	gefum dæmi t.d. í vefsíðu gerð, þú ert með file og það eru nokkur commit sem eru inn í því og svo býrjar þú að brancha,
+	þá fer kemur svona copy (ekki beinlínis samt) hugsaðu meira að þetta sé bara sem "Save as..." og þú save-ar fileið en þú 
+	gerir enga áhrif á upprunnalega file-ið. 
+	
+
+
+ 
+
 
